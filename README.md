@@ -19,7 +19,7 @@
 [<img align="left" alt="JCamarena | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [youtube]: https://www.youtube.com/c/joshmadakor
-[linkedin]: https://linkedin.com/in/j-camarena-security
+[linkedin]:https://linkedin.com/in/j-camarena-security
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
