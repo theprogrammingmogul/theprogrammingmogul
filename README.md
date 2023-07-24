@@ -9,6 +9,8 @@ Cybersecurity Student
 <h2> :scroll: Certifications </h2>
 
 - [CompTIA Network+](https://www.credly.com/badges/93c50a38-828f-458b-be6b-c337239fcbab/linked_in_profile)
+- [CompTIA A+](https://www.credly.com/badges/454a6ee0-623e-4bbf-9d0b-fceb77c04643/linked_in_profile)
+- [ITIL 4 Foundation]
 
 <h2>📺 Popular YouTube Videos</h2>
 
