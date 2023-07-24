@@ -8,7 +8,7 @@ Cybersecurity Student
 
 <h2> :scroll: Certifications </h2>
 
-- [Tutorial Active Directory Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [CompTIA Network+](https://www.credly.com/badges/93c50a38-828f-458b-be6b-c337239fcbab/linked_in_profile)
 
 <h2>📺 Popular YouTube Videos</h2>
 
