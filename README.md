@@ -3,7 +3,7 @@ Cybersecurity Student
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [SIEM Home Lab](https://github.com/theprogrammingmogul/SIEM-Lab)
+  - [Azure/ Sentinel SIEM Home Lab](https://github.com/theprogrammingmogul/SIEM-Lab)
 
 <h2> :scroll: Certifications </h2>
 
