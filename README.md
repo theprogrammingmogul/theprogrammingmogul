@@ -3,7 +3,6 @@ Cybersecurity Student
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/theprogrammingmogul/ActiveDirectoryLab)
   - [SIEM Home Lab](https://github.com/theprogrammingmogul/SIEM-Lab)
 
 <h2> :scroll: Certifications </h2>
